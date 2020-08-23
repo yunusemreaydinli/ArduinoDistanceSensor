@@ -1,4 +1,4 @@
-# Arduino Distance Sensor structure! [![License](https://go-shields.herokuapp.com/license-MIT-blue.png)](https://github.com/yunusemreaydinli) [![License](https://go-shields.herokuapp.com/Release-Version-green.png)](https://github.com/yunusemreaydinli) 
+# Arduino Distance Sensor structure! [![License](https://go-shields.herokuapp.com/license-MIT-blue.png)](https://github.com/yunusemreaydinli/ArduinoDistanceSensor/blob/master/LICENSE) [![License](https://go-shields.herokuapp.com/Release-Version-green.png)](https://github.com/ArduinoDistanceSensor) 
 Arduino and Nokia 5110 LCD screen, HC-SR04 distance sensor structure!
 
 ## Materials;
