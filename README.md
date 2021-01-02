@@ -14,4 +14,4 @@ Arduino and Nokia 5110 LCD screen, HC-SR04 distance sensor structure!
 > **Note:** For library installations: Check the "Library installation.txt **" file.
 Türkçe Kaynak için: https://www.editordefteri.tk/2020/06/29/arduino-mesafe-sensoru-yapimi/
 ### Schema
-![Sema](Sema.png)
+![Sema](sema.png)
