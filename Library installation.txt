@@ -1,8 +1,0 @@
-Hello,
-Things to do to establish libraries;
-
-After downloading the zip file Sketch -> Include Library -> Select the ZIP library and add the ZIP file.
-
-Important note;
-HC-SR04 Current Library:
-https://bitbucket.org/teckel12/arduino-new-ping/downloads/
