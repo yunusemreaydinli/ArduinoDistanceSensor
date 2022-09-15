@@ -4,7 +4,7 @@
 
 Arduino and Nokia 5110 LCD screen, HC-SR04 distance sensor structure!
 
-Blog Link: https://projedefteri.com/blog/arduino-mesafe-sensoru-yapimi/
+[Blog Link](https://projedefteri.com/blog/arduino-mesafe-sensoru-yapimi/)
 
 ### Schema
 <img src="https://projedefteri.com/img/arduino-mesafe-sensoru-semasi.png" width="400" height="400">
